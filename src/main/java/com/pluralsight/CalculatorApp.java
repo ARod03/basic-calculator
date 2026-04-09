@@ -18,7 +18,7 @@ public class CalculatorApp {
         System.out.println("Enter second number: ");
         int secondNumber = scanner.nextInt();
 
-        System.out.println("Your product is " + firstNumber * secondNumber);
+        System.out.println("Your product is: " + firstNumber * secondNumber);
 
 
     }
