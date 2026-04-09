@@ -21,6 +21,5 @@ public class CalculatorApp {
         System.out.println("Your product is " + firstNumber * secondNumber);
 
 
-
     }
 }
